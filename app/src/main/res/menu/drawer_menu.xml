@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="My Orders"
+        android:id="@+id/order"/>
+
+    <group android:id="@+id/grp_1">
+        <item
+            android:title="@string/bikes_category"
+            android:id="@+id/bikes_category"/>
+        <item
+            android:title="@string/bike_parts"
+            android:id="@+id/bike_parts"/>
+        <item
+            android:title="Bike Accessories"
+            android:id="@+id/bike_accessories"/>
+    </group>
+
+    <group android:id="@+id/grp_2">
+        <item android:title="Login"
+            android:id="@+id/login"/>
+        <item android:title="Contact Us"
+            android:id="@+id/contact"/>
+    </group>
+
+</menu>

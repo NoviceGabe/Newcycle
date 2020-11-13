@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">NewCycle</string>
+    <string name="search_bar">Search</string>
+    <string name="home_cap">Home</string>
+    <string name="share_cap">Share</string>
+    <string name="rate_cap">Rate</string>
+    <string name="help_cap">Help</string>
+    <string name="about_cap">About</string>
+    <string name="exit_cap">Exit</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="settings">settings</string>
+    <string name="exit">exit</string>
+    <string name="bikes_category">Bikes Category</string>
+    <string name="bike_parts">Bike Parts</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">home</string>
+    <string name="cart">cart</string>
+    <string name="favorite">favorite</string>
+    <string name="account">account</string>
+    <string name="store">store</string>
+    <string name="category">Category</string>
+    <string name="parts">Parts</string>
+    <string name="accessories">Accessories</string>
+    <string name="overview">Overview</string>
+    <string name="review">Review</string>
+    <string name="details">Details</string>
+    <string name="favorites">favorites</string>
+    <string name="buy">Buy</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="free">₱0.00</string>
+    <string name="view_all"><u>View All</u></string>
+    <string name="see_more"><u>See More</u></string>
+    <string name="unknown">Unknown</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_link">Already have an account? <u>Sign in</u></string>
+    <string name="sign_up_link">New Customer? <u>Sign up</u></string>
+    <string name="delete">Delete</string>
+    <string name="subtotal">Sub total</string>
+    <string name="item_count">Item (0)</string>
+    <string name="total">Total</string>
+    <string name="cancel"><u>Cancel</u></string>
+</resources>
