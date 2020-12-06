@@ -1,5 +1,5 @@
 # Newcycle
-Newcycle is a simple bicycle shopping app made using Android Java, PHP, MYSQL and ROOM Database
+Newcycle is a simple bicycle shopping app made using Android Java, PHP, MYSQL and Room Database
 
 ## Getting Started
 
